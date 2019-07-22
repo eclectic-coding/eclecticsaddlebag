@@ -1,18 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog Title Placeholder`,
-    author: `Name Placeholder`,
+    title: `Eclectic Saddlebag`,
+    author: `Chuck Smith`,
     description: `Description placeholder`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`
+        url: `https://twitter.com/eclecticcoding`
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`
+        url: `https://github.com/eclectic-coding`
       }
     ]
   },
   plugins: [{ resolve: `gatsby-theme-cooper-hewitt`, options: {} }]
-};
+}

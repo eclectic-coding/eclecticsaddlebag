@@ -1,7 +1,6 @@
 /** @jsx jsx */
-import React from 'react'
+// import React from 'react'
 import { Styled, jsx } from 'theme-ui'
-import { Link } from 'gatsby'
 /**
  * Shadow me to add your own bio content
  */
@@ -9,13 +8,15 @@ import { Link } from 'gatsby'
 export default () => (
   <div>
     <div sx={{ mb: 2 }}>
-      Words by <Styled.a href='http://example.com/'>Jane Doe</Styled.a>.
+      Words by{' '}
+      <Styled.a href='mailto:chuck@eclecticsaddlebag.com'>Chuck</Styled.a>.
       <br />
-      Change me. This is all quite default. If you'd like.
-    </div>
-    <div sx={{ mb: 0 }}>
-      {/* TODO: make these p elements once gatsby-theme-blog is fixed. */}
-      <Styled.a as={Link} to='/about'>
+      Love to hear from you. Look me up ...{' '}
+      <Styled.a
+        href='https://twitter.com/eclecticcoding'
+        target='_blank'
+        rel='noopener noreferrer'
+      >
         More about me
       </Styled.a>
     </div>
