@@ -6,7 +6,8 @@ const Footer = ({ socialLinks }) => (
   <footer
     css={css({
       mt: 4,
-      pt: 3
+      pt: 3,
+      maxWidth: `85vw`
     })}
   >
     {socialLinks.map((platform, i, arr) => (
