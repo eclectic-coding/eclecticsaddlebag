@@ -5666,10 +5666,10 @@ gatsby-theme-blog@^1.0.0:
     typeface-montserrat "0.0.54"
     typography-theme-wordpress-2016 "^0.16.19"
 
-gatsby-theme-cooper-hewitt@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-cooper-hewitt/-/gatsby-theme-cooper-hewitt-0.0.1.tgz#74a475d67bbe4e0be2b5ef08f09f3cdfff1a31e3"
-  integrity sha512-RtDtIRbSGkFGwAKAheEp0FVBPe+HbPpgI7DQBbx+TC/5QEK5IFkR8G/VcpHh0Bq1hW9b0NYVEkHE6ChNhSz9kw==
+gatsby-theme-cooper-hewitt@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-cooper-hewitt/-/gatsby-theme-cooper-hewitt-0.0.5.tgz#068a6e8022b556aa764d8494032e4e74221eb69d"
+  integrity sha512-cW6jUhd+rpPrFEckv8RSfo0jRdPNfzqpOjLrg0HUyTDeTbNdazxgt6DwaNwDy6mtQME+tn60D2hG6vEgnuAgyw==
   dependencies:
     deepmerge "^4.0.0"
     emotion "^10.0.14"
