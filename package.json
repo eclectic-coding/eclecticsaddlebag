@@ -7,14 +7,14 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "start": "gatsby clean && gatsby develop"
+    "start": "gatsby clean && gatsby develop -o"
   },
   "dependencies": {
-    "gatsby": "^2.13.3",
+    "gatsby": "^2.16.3",
     "gatsby-theme": "^0.0.6",
     "gatsby-theme-cooper-hewitt": "^0.0.5",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
     "react-social-icons": "^4.1.0"
   }
 }
