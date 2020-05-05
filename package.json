@@ -12,7 +12,7 @@
   "dependencies": {
     "gatsby": "^2.21.11",
     "gatsby-source-dev": "^0.1.4",
-    "gatsby-theme": "^0.1.0",
+    "gatsby-theme": "^0.1.1",
     "gatsby-theme-cooper-hewitt": "^0.0.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
