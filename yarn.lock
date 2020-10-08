@@ -6919,6 +6919,11 @@ fast-levenshtein@^2.0.6, fast-levenshtein@~2.0.6:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
+fastest-levenshtein@^1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/fastest-levenshtein/-/fastest-levenshtein-1.0.12.tgz#9990f7d3a88cc5a9ffd1f1745745251700d497e2"
+  integrity sha512-On2N+BpYJ15xIC974QNVuYGMOlEVt4s0EOI3wwMqOmK1fdDY+FN/zltPV8vosq4ad4c/gJ1KHScUn/6AWIgiow==
+
 fastparse@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
@@ -7885,16 +7890,16 @@ gatsby-theme@^0.0.5:
     mkdirp "^0.5.1"
     npm-keyword "^6.1.0"
 
-gatsby-theme@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.1.5.tgz#aef98d79bc9dbe85f4efc5b6afd039dc9f5a8002"
-  integrity sha512-gMYY0EtBU4dzyqMfmGHX+Dem3bBpiCZvkeUsbNiPdwmdrv2bW6g7ajrOpXTHSMUMzdu9iyIGMOeXxQk5jeMRSA==
+gatsby-theme@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.1.6.tgz#1bf420afe5aa351797396b47f54b6712a4356b56"
+  integrity sha512-ds2DzzeTpoDJD2FwWCNUXH6a34EkDb1gnPG96ZoiJY+lTMmXrM+3B/dDPNMutYb4Lg8A+oyFjK4aKXniOHrAlQ==
   dependencies:
     "@babel/core" "^7.11.6"
     "@babel/helper-plugin-utils" "^7.10.4"
     "@babel/plugin-syntax-jsx" "^7.10.4"
     commander "^2.20.3"
-    fast-levenshtein "^2.0.6"
+    fastest-levenshtein "^1.0.12"
     glob "^7.1.6"
     globby "^10.0.2"
     inquirer "^6.5.2"
