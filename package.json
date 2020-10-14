@@ -14,8 +14,8 @@
     "gatsby-source-dev": "^0.1.4",
     "gatsby-theme": "^0.1.6",
     "gatsby-theme-cooper-hewitt": "^0.0.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-social-icons": "^4.1.0"
   }
 }
