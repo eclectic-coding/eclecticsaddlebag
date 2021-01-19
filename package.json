@@ -10,9 +10,9 @@
     "start": "gatsby clean && gatsby develop -o"
   },
   "dependencies": {
-    "gatsby": "^2.30.3",
+    "gatsby": "^2.31.0",
     "gatsby-source-dev": "^0.1.4",
-    "gatsby-theme": "^0.6.0",
+    "gatsby-theme": "^0.7.0",
     "gatsby-theme-cooper-hewitt": "^0.0.5",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
