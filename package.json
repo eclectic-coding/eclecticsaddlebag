@@ -10,7 +10,7 @@
     "start": "gatsby clean && gatsby develop -o"
   },
   "dependencies": {
-    "gatsby": "^2.31.0",
+    "gatsby": "^2.31.1",
     "gatsby-source-dev": "^0.1.4",
     "gatsby-theme": "^0.7.0",
     "gatsby-theme-cooper-hewitt": "^0.0.5",
