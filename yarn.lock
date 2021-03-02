@@ -7694,10 +7694,10 @@ gatsby-theme@^0.0.5:
     mkdirp "^0.5.1"
     npm-keyword "^6.1.0"
 
-gatsby-theme@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.8.0.tgz#fa409b3253d549ba240c7a2daa8ca345c0409ddc"
-  integrity sha512-4yGvYkc0ZUzT/X/N0JBP68eQUogeG4bYzOkEyC3+dUxZKiM6cmeaaKmeE8SWhZWtCdDN1haIFukIl+jKL8AjJA==
+gatsby-theme@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.10.0.tgz#e78f7077ba2e27e63bf0c830882945d28ed832fc"
+  integrity sha512-wPc2FaFpZdTlgXJuLw2neKhSpPXSQor2KT+R4PmVvcvqjBVXdQAEoBEzfSu/SG9aHeZKQsmZxMG7QbBqD8ontg==
   dependencies:
     "@babel/core" "^7.12.3"
     "@babel/helper-plugin-utils" "^7.10.4"
