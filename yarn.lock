@@ -7694,10 +7694,10 @@ gatsby-theme@^0.0.5:
     mkdirp "^0.5.1"
     npm-keyword "^6.1.0"
 
-gatsby-theme@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.10.0.tgz#e78f7077ba2e27e63bf0c830882945d28ed832fc"
-  integrity sha512-wPc2FaFpZdTlgXJuLw2neKhSpPXSQor2KT+R4PmVvcvqjBVXdQAEoBEzfSu/SG9aHeZKQsmZxMG7QbBqD8ontg==
+gatsby-theme@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme/-/gatsby-theme-0.11.0.tgz#0f6180f37b61c651460b2bb723ae713aedb09033"
+  integrity sha512-2e8TklldC1qmxCizZ4rNd6L3362l8wD2bfJtOqHqN7YYI5C8deY6VWm3vYAWmH3KBddpuNOI6bEfrfjWkvZktg==
   dependencies:
     "@babel/core" "^7.12.3"
     "@babel/helper-plugin-utils" "^7.10.4"
@@ -7707,7 +7707,7 @@ gatsby-theme@^0.10.0:
     glob "^7.1.6"
     globby "^10.0.2"
     inquirer "^6.5.2"
-    lodash "^4.17.20"
+    lodash "^4.17.21"
     mkdirp "^0.5.1"
     npm-keyword "^6.1.0"
 
@@ -10057,6 +10057,11 @@ lodash@^4.17.20:
   version "4.17.20"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
   integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 logalot@^2.0.0, logalot@^2.1.0:
   version "2.1.0"
